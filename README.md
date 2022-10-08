@@ -8,9 +8,10 @@ IoT integrated big data analytics is appeared to be a better solution as reliabi
 
 # 🧑‍🎓 TEAM MEMBERS
 * SHIRANJEEVI
-* A
-* V
-* R
+* PRANEETH
+* SHERJEEL
+* PRAVEEN BHARATHI
+* SANJAY
 
 
 # **🎯Skills Required:**        
