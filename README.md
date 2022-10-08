@@ -2,6 +2,8 @@
 - TECHNOLOGY : IOT
 
 # 📒 PROJECT DESCRIPTION
+The main aim of this project is to detect the quality of river water and quantity of pollutants present in water and so that river water quality is monitored and effective measures can be taken accordingly .
+![image](https://user-images.githubusercontent.com/110548947/194710551-b4af1bf8-11bd-40a1-9798-4fa444eb89e4.png)
 To develop a system for real time quality assessment for river water health at residential places using Raspberry Pi. 
 Sensors are used to gather different parameters in River water to monitor water health in real time.
 IoT integrated big data analytics is appeared to be a better solution as reliability, scalability, speed, and persistence can be provided
