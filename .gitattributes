@@ -1,1 +1,2 @@
-
+*.hack 1inguist-detectable=false
+*.python linguist-detectable=true
