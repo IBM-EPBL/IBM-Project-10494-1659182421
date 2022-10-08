@@ -17,9 +17,9 @@ IoT integrated big data analytics is appeared to be a better solution as reliabi
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB
 
 # **Ideation_Phase**
-## 🗺️ EMPATHY MAP - [Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/Empathy_Map.png)
-## 🧠 BRAINSTORMING -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/Brainstorming.pdf)
-## 💻 LITERATURE SURVEY -[Click Here](https://github.com/IBM-EPBL/IBM-Project-850-1658326108/blob/main/Literature_survey.pdf)
+## 🗺️ EMPATHY MAP - [Click Here]
+## 🧠 BRAINSTORMING -[Click Here]
+## 💻 LITERATURE SURVEY -[Click Here]
 
 ### 📫 How to reach Us <a href = "mailto:shiranjeevisakthi2000@gmail.com">Connect with Email</a>
 
