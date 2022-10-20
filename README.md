@@ -1,4 +1,5 @@
-#  <img src="https://media3.giphy.com/media/hu71BNaU36l1g1zFgL/giphy.gif?cid=ecf05e47kxm4xej1ehqju6ckhku4yzs45w10nzu4vtt75ofa&rid=giphy.gif&ct=s" width="30px" >Real-Time River Water Quality Monitoring and Control System!
+![giphy](https://user-images.githubusercontent.com/110548947/196839541-74f31ef4-bc45-4d5f-b9eb-0a2dfd105a21.gif)
+>Real-Time River Water Quality Monitoring and Control System!
 - TECHNOLOGY : IOT
 
 # 📒 PROJECT DESCRIPTION
