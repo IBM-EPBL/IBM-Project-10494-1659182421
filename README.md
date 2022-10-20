@@ -1,5 +1,6 @@
-#  <img src="https://user-images.githubusercontent.com/110548947/196839541-74f31ef4-bc45-4d5f-b9eb-0a2dfd105a21.gif" width="30px">Real-Time River Water Quality Monitoring and Control System!
-- TECHNOLOGY : IOT
+#  <img src="https://user-images.githubusercontent.com/110548947/196840242-ea948de2-2a55-479f-a805-daaf4a524a36.gif" width="30px">Real-Time River Water Quality Monitoring and Control System!
+- TECHNOLOGY!
+ : IOT
 
 # 📒 PROJECT DESCRIPTION
 The main aim of this project is to detect the quality of river water and quantity of pollutants present in water and so that river water quality is monitored and effective measures can be taken accordingly .
