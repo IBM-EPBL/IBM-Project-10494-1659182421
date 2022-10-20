@@ -1,5 +1,5 @@
 #  <img src="https://media3.giphy.com/media/hu71BNaU36l1g1zFgL/giphy.gif?cid=ecf05e47kxm4xej1ehqju6ckhku4yzs45w10nzu4vtt75ofa&rid=giphy.gif&ct=s" width="30px">
-#  <img src="https://media.giphy.com/media/WomzR7NsVirURITuyn/giphy.gif?cid=ecf05e47kxm4xej1ehqju6ckhku4yzs45w10nzu4vtt75ofa&rid=giphy.gif&ct=s" width="50">Real-Time River Water Quality Monitoring and Control System
+#  <img src="<div class="tenor-gif-embed" data-postid="17533255" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/national-park-travel-joypixels-park-trees-gif-17533255">National Park Travel Sticker</a>from <a href="https://tenor.com/search/national+park-stickers">National Park Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="50">Real-Time River Water Quality Monitoring and Control System
 - TECHNOLOGY : IOT
 
 # 📒 PROJECT DESCRIPTION
