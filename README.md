@@ -1,4 +1,4 @@
-#  <img src="https://user-images.githubusercontent.com/110548947/196840242-ea948de2-2a55-479f-a805-daaf4a524a36.gif" width="80px">Real-Time River Water Quality Monitoring and Control System!
+#  <img src="https://user-images.githubusercontent.com/110548947/196840242-ea948de2-2a55-479f-a805-daaf4a524a36.gif" width="80px">REAL-TIME RIVER WATER QUALITY MONITORING AND CONTROL SYSTEM!
 - TECHNOLOGY!
  : IOT
 
