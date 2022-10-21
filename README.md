@@ -1,4 +1,4 @@
-#  <img src="https://user-images.githubusercontent.com/110548947/197107518-15139118-d1f7-4130-87e0-572c2449608e.gif" "width="66px">REAL-TIME RIVER WATER QUALITY MONITORING AND CONTROL SYSTEM!
+#  <img src="https://media3.giphy.com/media/hu71BNaU36l1g1zFgL/giphy.gif?cid=ecf05e47kxm4xej1ehqju6ckhku4yzs45w10nzu4vtt75ofa&rid=giphy.gif&ct=s" width="30px" >REAL-TIME RIVER WATER QUALITY MONITORING AND CONTROL SYSTEM!
 - TECHNOLOGY!
  : IOT
 
