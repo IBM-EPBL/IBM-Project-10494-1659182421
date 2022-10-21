@@ -1,4 +1,4 @@
-#  <img src="https://media3.giphy.com/media/hu71BNaU36l1g1zFgL/giphy.gif?cid=ecf05e47kxm4xej1ehqju6ckhku4yzs45w10nzu4vtt75ofa&rid=giphy.gif&ct=s" width="30px" >REAL-TIME RIVER WATER QUALITY MONITORING AND CONTROL SYSTEM!
+#  <img src="https://user-images.githubusercontent.com/110548947/197107823-ea8d3b4d-b625-4b02-a4b9-cf48c1640405.gif" width="30px" >REAL-TIME RIVER WATER QUALITY MONITORING AND CONTROL SYSTEM!
 - TECHNOLOGY!
  : IOT
 
@@ -14,3 +14,4 @@ IoT is appeared to be a better solution as reliability, scalability, speed, and 
 * SHERJEEL
 * PRAVEEN BHARATHI
 * SANJAY
+![national-park-travel](https://user-images.githubusercontent.com/110548947/197107823-ea8d3b4d-b625-4b02-a4b9-cf48c1640405.gif)
